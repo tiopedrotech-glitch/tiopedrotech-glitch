@@ -1,5 +1,5 @@
 ## Opa sou Pedro Barbosa👋
-Jovem de 15 anos iniciano em Dev
+Jovem de 15 anos iniciando em Dev
 -
 - 🧑🏽‍💻 Estudando HTML & CSS
 - 💬 Pronomes ele/dele
